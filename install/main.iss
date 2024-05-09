@@ -17,7 +17,7 @@
 #endif
 
 [Setup]
-AppCopyright=Copyright (C) 2023 Armagomen UA.
+AppCopyright=Copyright (C) 2024 Armagomen UA.
 AppId={{E4911938-A29D-4904-8878-99DEEBDE03D6}
 AppName={#MyAppName}
 AppPublisher={#MyAppPublisher}
@@ -51,7 +51,8 @@ Filename: "https://discord.gg/Nma5T5snKW"; Description: "DISCORD"; Flags: postin
 
 
 [Languages]
-Name: "en"; MessagesFile: "compiler:Default.isl"; LicenseFile: "..\EULA_EN.txt"; 
+Name: "en"; MessagesFile: "compiler:Default.isl"; LicenseFile: "..\EULA_EN.txt";
+Name: "pt"; MessagesFile: "compiler:Languages\Portuguese.isl"; LicenseFile: "..\EULA_PT.txt";
 Name: "uk"; MessagesFile: "compiler:Languages\Ukrainian.isl"; LicenseFile: "..\EULA_UK.txt";
 
 [Icons]
@@ -59,6 +60,7 @@ Name: "{group}\{cm:UninstallProgram,{#MyAppName}}"; Filename: "{uninstallexe}"; 
 
 #include "scripts\messages\uk.iss"
 #include "scripts\messages\en.iss"
+#include "scripts\messages\pt.iss"
 #include "scripts\components.iss"
 //#include "scripts\preview.iss"
 

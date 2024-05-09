@@ -1,0 +1,40 @@
+Este Contrato, incluindo todos os seus anexos, por uma questão de brevidade, doravante denominado Contrato.
+Todos os anexos do Acordo farão parte integrante e vincularão as partes.
+Anexos ao Acordo publicado no Site Developer Fashion e inclui o direito de uso de moda e Política de Privacidade.
+
+ATENÇÃO! SE VOCÊ BAIXAR, COPIAR O SOFTWARE OU UTILIZÁ-LO DE QUALQUER OUTRA MANEIRA E/OU COMEÇAR O JOGO COM O CONJUNTO DE MODIFICAÇÕES "BATTLE OBSERVER" AQUI REFERIDO COMO A MODIFICAÇÃO, VOCÊ CONFIRMA SUA ACEITAÇÃO DOS TERMOS DESTE CONTRATO.
+
+1. Todos os direitos não expressamente especificados neste Contrato são reservados pelo Proprietário do Projeto, doravante denominado Desenvolvedor.
+
+2. O usuário garante que não está sujeito a restrições legais de uso dos serviços online, que possui todos os poderes necessários para celebrar este Contrato ou recebeu a permissão necessária na forma exigida por lei de seus pais ou representantes legais.
+
+3. O usuário utiliza a Modificação por sua própria conta e risco. A modificação é fornecida “como está”, o que significa que o Usuário não tem garantia de que a Modificação, bem como os recursos, serviços. Serviços e instalações:
+3.1. Funcionará sem problemas, continuamente, sem erros, sem conflitos com outros mods;
+3.2. Atenderá aos requisitos e expectativas do Usuário.
+
+4. Não é permitido ao usuário:
+4.1. Adicionar modificação ao modpack sem o consentimento do desenvolvedor;
+4.2. Distribuir a modificação para recursos de terceiros sem atribuição e link para o site do Desenvolvedor;
+4.3. Modifique ou modifique scripts de modificação de qualquer forma.
+
+5. Se o Usuário violar o Contrato atual, o Desenvolvedor tem o direito, sem aviso prévio, de restringir unilateralmente, total ou parcialmente, a funcionalidade ou o acesso do Usuário ao Projeto, bem como recusar ao Usuário continuar a fornecer serviços no Projeto sem ser responsável por qualquer dano que possa ser causado ao Usuário por tal ação.
+
+6. Em caso de desacordo do Usuário com o Contrato atual, o Usuário é obrigado a encerrar a participação no Projeto, incluindo desinstalar a modificação.
+
+7. Qualquer uma das Partes tem o direito de rescindir este Contrato a qualquer momento (sem julgamento).
+7.1 No caso de rescisão deste Contrato por qualquer motivo, o Licenciado deverá descontinuar o uso da modificação e excluir a parte da modificação do Cliente da memória do PC. Ao mesmo tempo, o valor da taxa de licença para uso de acesso às funções premium recebida pelo Licenciado (quantos dias restantes da assinatura) não é convertido em dinheiro e não é devolvido ao Licenciado em nenhuma circunstância.
+
+8. Limitação de Responsabilidade. O desenvolvedor não se responsabiliza por danos diretos ou indiretos, bem como lucros cessantes do Usuário ou de terceiros em decorrência de:
+8.1. Uso ou incapacidade de usar modificações.
+8.2. Força maior e ações de terceiros. As partes estão isentas de responsabilidade pelo descumprimento total ou parcial das obrigações deste Contrato se tal descumprimento for resultado de força maior, incluindo motins, ações proibitivas de autoridades, desastres naturais, incêndios, catástrofes, falhas nas telecomunicações e redes elétricas, ações de programas maliciosos, falha de servidor, bem como ações injustas de terceiros destinadas a obter acesso não autorizado ou desabilitar o programa ou complexo de hardware.
+
+9. Direitos e responsabilidades do desenvolvedor:
+9.1. Os desenvolvedores se comprometem a:
+9.1.1 Fornecer ao Usuário acesso a recursos premium se o Usuário tiver pago uma taxa de licença definida pelo Desenvolvedor.;
+9.1.2 Fornecer acesso a recursos básicos e premium se não for impedido pela cláusula 8.2.
+
+9.2. O desenvolvedor tem o direito de:
+9.2.1. Sem aviso prévio ao Usuário, modificar a seu critério as características técnicas e outras características de qualquer parte da modificação utilizada pelo Usuário, incluindo comandos e módulos ativados e não ativados; alterar cenários de modificação, e assim por diante;
+9.2.2. A qualquer momento, interromper, restringir e/ou rescindir este Contrato unilateralmente com modificação para qualquer ou todos os usuários, inclusive se o Usuário não cumprir os termos deste Contrato.
+9.2.3. A qualquer momento, altere o valor da taxa de licença para acessar recursos premium.
+9.2.4. Converta a função básica em premium e vice-versa sem aviso prévio.
